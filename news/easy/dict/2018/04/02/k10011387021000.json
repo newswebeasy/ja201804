@@ -1,0 +1,110 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るための、もとになる<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "原料"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>むこと。<ruby><rb>包</rb><rt>つつ</rt></ruby>んだもの。また、<ruby><rb>容器</rb><rt>ようき</rt></ruby>などにつめること。<ruby><rb>容器</rb><rt>ようき</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        },
+        {
+          "def": "<ruby><rb>栄養</rb><rt>えいよう</rt></ruby>をあたえるものをぬって、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>をきれいにする<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        },
+        {
+          "def": "<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>で、<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>・ホテル・<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>先</rb><rt>さき</rt></ruby>などをひとまとめにしたもの。パッケージ<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "むした<ruby><rb>大豆</rb><rt>だいず</rt></ruby>に、なっとう<ruby><rb>菌</rb><rt>きん</rt></ruby>をはたらかせてつくった<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "納豆"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>豆</rb><rt>まめ</rt></ruby>の<ruby><rb>一種</rb><rt>いっしゅ</rt></ruby>。<ruby><rb>種</rb><rt>たね</rt></ruby>には、たんぱく<ruby><rb>質</rb><rt>しつ</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>く、とうふ・みそ・なっとうなどにする。",
+          "hyouki": [
+            "大豆"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る、<ruby><rb>黒</rb><rt>くろ</rt></ruby>くどろどろした<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい<ruby><rb>油</rb><rt>あぶら</rt></ruby>。<ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>が<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>にうまってできたもの。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>からとったままのものを<ruby><rb>原油</rb><rt>げんゆ</rt></ruby>といい、ガソリン・<ruby><rb>軽油</rb><rt>けいゆ</rt></ruby>・<ruby><rb>灯油</rb><rt>とうゆ</rt></ruby>・<ruby><rb>重油</rb><rt>じゅうゆ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る。<ruby><rb>化学工業</rb><rt>かがくこうぎょう</rt></ruby>の<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>としても<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "石油"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」から<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>やじゅんかつ<ruby><rb>油</rb><rt>ゆ</rt></ruby>などの<ruby><rb>製品</rb><rt>せいひん</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>灯油</rb><rt>とうゆ</rt></ruby>のこと。",
+          "hyouki": [
+            "石油"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>からふき<ruby><rb>出</rb><rt>だ</rt></ruby>す、<ruby><rb>燃</rb><rt>も</rt></ruby>えるガス。",
+          "hyouki": [
+            "天然ガス"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ガラスやせともの・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "瓶"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>大麦</rb><rt>おおむぎ</rt></ruby>を<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にした<ruby><rb>酒</rb><rt>さけ</rt></ruby>。",
+          "hyouki": [
+            "ビール"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ブドウの<ruby><rb>実</rb><rt>み</rt></ruby>のしるを<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させて<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>酒</rb><rt>さけ</rt></ruby>。ぶどう<ruby><rb>酒</rb><rt>しゅ</rt></ruby>。",
+          "hyouki": [
+            "ワイン"
+          ]
+        }
+      ]
+    }
+  }
+}

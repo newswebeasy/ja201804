@@ -1,0 +1,154 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>を<ruby><rb>破</rb><rt>やぶ</rt></ruby>って、こっそりと<ruby><rb>輸出</rb><rt>ゆしゅつ</rt></ruby>や<ruby><rb>輸入</rb><rt>ゆにゅう</rt></ruby>をすること。",
+          "hyouki": [
+            "密輸"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "とらえられる。つかまえられる。",
+          "hyouki": [
+            "捕まる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>飛</rb><rt>と</rt></ruby>ぶようにする。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>走</rb><rt>はし</rt></ruby>らせる。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>間</rb><rt>あいだ</rt></ruby>をぬいて、<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>言</rb><rt>い</rt></ruby>いふらす。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく…する。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>針金</rb><rt>はりがね</rt></ruby>。",
+          "hyouki": [
+            "ワイヤ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>電線</rb><rt>でんせん</rt></ruby>。",
+          "hyouki": [
+            "ワイヤ"
+          ]
+        },
+        {
+          "def": "ワイヤロープのこと。<ruby><rb>鋼鉄製</rb><rt>こうてつせい</rt></ruby>の<ruby><rb>太</rb><rt>ふと</rt></ruby>いつな。",
+          "hyouki": [
+            "ワイヤ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "くくる。つなぐ。しばる。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "はなれているものや<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>をつなぐ。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>関係</rb><rt>かんけい</rt></ruby>をつける。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>約束</rb><rt>やくそく</rt></ruby>などを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "かたく<ruby><rb>閉</rb><rt>と</rt></ruby>じる。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>生</rb><rt>う</rt></ruby>み<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "しめくくる。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>や<ruby><rb>布</rb><rt>ぬの</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>口</rb><rt>くち</rt></ruby>をしめるようにした<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "袋"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」に<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。",
+          "hyouki": [
+            "袋"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>利益</rb><rt>りえき</rt></ruby>を<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のものにする。<ruby><rb>得</rb><rt>とく</rt></ruby>をする。",
+          "hyouki": [
+            "もうける"
+          ]
+        }
+      ]
+    }
+  }
+}

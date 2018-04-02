@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>安打</rb><rt>あんだ</rt></ruby>。",
+          "hyouki": [
+            "ヒット"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大当</rb><rt>おおあ</rt></ruby>たり。",
+          "hyouki": [
+            "ヒット"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>九人</rb><rt>くにん</rt></ruby>ずつの<ruby><rb>二</rb><rt>に</rt></ruby>チームが、たがいにバットでボールを<ruby><rb>打</rb><rt>う</rt></ruby>ってせめ<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ベースボール。",
+          "hyouki": [
+            "野球"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、バッターにボールを<ruby><rb>投</rb><rt>な</rt></ruby>げる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>投手</rb><rt>とうしゅ</rt></ruby>。",
+          "hyouki": [
+            "ピッチャー"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、ボールを<ruby><rb>打</rb><rt>う</rt></ruby>つ<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>打者</rb><rt>だしゃ</rt></ruby>。",
+          "hyouki": [
+            "バッター"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "めざましく<ruby><rb>働</rb><rt>はたら</rt></ruby>くこと。",
+          "hyouki": [
+            "活躍"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ばしょ。",
+          "hyouki": [
+            "場"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "スポーツや<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>などが、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>に<ruby><rb>好</rb><rt>す</rt></ruby>きな<ruby><rb>人</rb><rt>ひと</rt></ruby>。または、ある<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>や、<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>などを<ruby><rb>熱心</rb><rt>ねっしん</rt></ruby>に<ruby><rb>応援</rb><rt>おうえん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。フアン。",
+          "hyouki": [
+            "ファン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>扇風機</rb><rt>せんぷうき</rt></ruby>。<ruby><rb>送風機</rb><rt>そうふうき</rt></ruby>。<ruby><rb>換気扇</rb><rt>かんきせん</rt></ruby>。",
+          "hyouki": [
+            "ファン"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>ってすること。また、その<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。",
+          "hyouki": [
+            "順番"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>市庁</rb><rt>しちょう</rt></ruby>。",
+          "hyouki": [
+            "市役所"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるときに<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>気体</rb><rt>きたい</rt></ruby>。けむ。けぶり。",
+          "hyouki": [
+            "煙"
+          ]
+        },
+        {
+          "def": "けむりのように<ruby><rb>見</rb><rt>み</rt></ruby>えるもの。",
+          "hyouki": [
+            "煙"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "職員"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "物質"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "どういう<ruby><rb>罰</rb><rt>ばつ</rt></ruby>をあたえるかを<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>規則</rb><rt>きそく</rt></ruby>。",
+          "hyouki": [
+            "罰則"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>時間</rb><rt>じかん</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>月日</rb><rt>つきひ</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る。<ruby><rb>暮</rb><rt>く</rt></ruby>らす。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>程度</rb><rt>ていど</rt></ruby>をこす。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "そのままにしておく。",
+          "hyouki": [
+            "過ごす"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ]
+    }
+  }
+}
