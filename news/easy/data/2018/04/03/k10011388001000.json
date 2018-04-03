@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011388001000",
+  "news_prearranged_time": "2018-04-03 16:00:00",
+  "title": "多くの会社が新しい社員を迎える入社式を行う",
+  "title_with_ruby": "<ruby>多<rt>おお</rt></ruby>くの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>える<ruby>入社式<rt>にゅうしゃしき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う",
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>では<ruby>４月<rt>しがつ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>年度<rt>ねんど</rt></ruby></a>が<ruby>始<rt>はじ</rt></ruby>まります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180402/../20180402/K10011388001_1804021150_1804021156_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011388001000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011388001000/k10011388001000.html"
+}

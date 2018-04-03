@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>などをとること。",
+          "hyouki": [
+            "漁"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "つかれなどが、なくなる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>ることができる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "取れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "すけて、<ruby><rb>中</rb><rt>なか</rt></ruby>のほうや、<ruby><rb>向</rb><rt>む</rt></ruby>こうのほうが<ruby><rb>見</rb><rt>み</rt></ruby>える。",
+          "hyouki": [
+            "透き通る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>声</rb><rt>こえ</rt></ruby>などがすんで、よく<ruby><rb>通</rb><rt>とお</rt></ruby>る。",
+          "hyouki": [
+            "透き通る"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。",
+          "hyouki": [
+            "ピンク"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>美</rb><rt>うつく</rt></ruby>しくて<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのある、かざりに<ruby><rb>使</rb><rt>つか</rt></ruby>われる<ruby><rb>石</rb><rt>いし</rt></ruby>。ダイヤモンド・ルビー・サファイア・エメラルドなど。",
+          "hyouki": [
+            "宝石"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "なまの<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>貝</rb><rt>かい</rt></ruby>などの<ruby><rb>肉</rb><rt>にく</rt></ruby>を、うすく<ruby><rb>切</rb><rt>き</rt></ruby>った<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "刺し身"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。",
+          "hyouki": [
+            "感じる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。",
+          "hyouki": [
+            "競り売り"
+          ]
+        }
+      ]
+    }
+  }
+}

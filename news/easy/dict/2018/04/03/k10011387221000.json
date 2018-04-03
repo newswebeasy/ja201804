@@ -1,0 +1,46 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>石炭</rb><rt>せきたん</rt></ruby>を<ruby><rb>燃</rb><rt>も</rt></ruby>やして、<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>にかえ、その<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>でピストンを<ruby><rb>動</rb><rt>うご</rt></ruby>かし、<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>を<ruby><rb>回</rb><rt>まわ</rt></ruby>す<ruby><rb>仕組</rb><rt>しく</rt></ruby>みの<ruby><rb>車</rb><rt>くるま</rt></ruby>。<ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>。<ruby><rb>SL</rb><rt>エスエル</rt></ruby>。",
+          "hyouki": [
+            "蒸気機関車"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>鉄</rb><rt>てつ</rt></ruby>のレールをしいて、<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>を<ruby><rb>走</rb><rt>はし</rt></ruby>らせる<ruby><rb>交通機関</rb><rt>こうつうきかん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、１８７２<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>明治</rb><rt>めいじ</rt></ruby>５<ruby><rb>年</rb><rt>ねん</rt></ruby>）に<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>の<ruby><rb>新橋</rb><rt>しんばし</rt></ruby>と<ruby><rb>横浜</rb><rt>よこはま</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>初</rb><rt>はじ</rt></ruby>めて<ruby><rb>開通</rb><rt>かいつう</rt></ruby>した。",
+          "hyouki": [
+            "鉄道"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>楽器</rb><rt>がっき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>をかなでること。",
+          "hyouki": [
+            "演奏"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。",
+          "hyouki": [
+            "桜"
+          ]
+        }
+      ]
+    }
+  }
+}

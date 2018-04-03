@@ -1,0 +1,178 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>１年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう<ruby><rb>４月</rb><rt>しがつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の<ruby><rb>３月３１日</rb><rt>さんがつさんじゅういちにち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。",
+          "hyouki": [
+            "年度"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "会長"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れや<ruby><rb>計算</rb><rt>けいさん</rt></ruby>をすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "会計"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>をはらうこと。",
+          "hyouki": [
+            "会計"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>正</rb><rt>ただ</rt></ruby>しくないこと。",
+          "hyouki": [
+            "不正"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。",
+          "hyouki": [
+            "経営"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>がつらくて、がまんできない。",
+          "hyouki": [
+            "苦しい"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>足</rb><rt>た</rt></ruby>りなくて<ruby><rb>困</rb><rt>こま</rt></ruby>るようす。",
+          "hyouki": [
+            "苦しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>無理</rb><rt>むり</rt></ruby>があるようす。",
+          "hyouki": [
+            "苦しい"
+          ]
+        },
+        {
+          "def": "…しにくい。",
+          "hyouki": [
+            "苦しい"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>出発</rb><rt>しゅっぱつ</rt></ruby>。",
+          "hyouki": [
+            "スタート"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "いっしょにものごとをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>友達</rb><rt>ともだち</rt></ruby>。グループ。",
+          "hyouki": [
+            "仲間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>の<ruby><rb>同</rb><rt>おな</rt></ruby>じもの。",
+          "hyouki": [
+            "仲間"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "代表"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。",
+          "hyouki": [
+            "代表"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "その<ruby><rb>土地</rb><rt>とち</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれたこと。",
+          "hyouki": [
+            "出身"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>学校</rb><rt>がっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>したこと。",
+          "hyouki": [
+            "出身"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>得意</rb><rt>とくい</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。じまん。<ruby><rb>名誉</rb><rt>めいよ</rt></ruby>。",
+          "hyouki": [
+            "誇り"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>喜</rb><rt>よろこ</rt></ruby>ぶこと。うれしい<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。",
+          "hyouki": [
+            "喜び"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>祝</rb><rt>いわ</rt></ruby>いのことば。",
+          "hyouki": [
+            "喜び"
+          ]
+        }
+      ]
+    }
+  }
+}
