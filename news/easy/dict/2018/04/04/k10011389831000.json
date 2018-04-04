@@ -1,0 +1,168 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>の、<ruby><rb>音</rb><rt>おと</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>い。<ruby><rb>調</rb><rt>しら</rt></ruby>べ。",
+          "hyouki": [
+            "調子"
+          ]
+        },
+        {
+          "def": "ぐあい。",
+          "hyouki": [
+            "調子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>回</rb><rt>まわ</rt></ruby>し。<ruby><rb>口調</rb><rt>くちょう</rt></ruby>。",
+          "hyouki": [
+            "調子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>い。",
+          "hyouki": [
+            "調子"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。",
+          "hyouki": [
+            "感じる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがを<ruby><rb>治</rb><rt>なお</rt></ruby>すことを<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>とする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>。",
+          "hyouki": [
+            "医師"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "調査"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。",
+          "hyouki": [
+            "感じる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かい。",
+          "hyouki": [
+            "詳しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。",
+          "hyouki": [
+            "詳しい"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "つかれなどで、<ruby><rb>力</rb><rt>ちから</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>ず、<ruby><rb>元気</rb><rt>げんき</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>ない。",
+          "hyouki": [
+            "だるい"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>態度</rb><rt>たいど</rt></ruby>が、<ruby><rb>引</rb><rt>ひ</rt></ruby>きしまること。",
+          "hyouki": [
+            "緊張"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>いごとなどが、<ruby><rb>今</rb><rt>いま</rt></ruby>にも<ruby><rb>起</rb><rt>お</rt></ruby>こりそうなようす。",
+          "hyouki": [
+            "緊張"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちに<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる、いろいろなしげき。そのために<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>や<ruby><rb>気分</rb><rt>きぶん</rt></ruby>が、ふだんと<ruby><rb>変</rb><rt>か</rt></ruby>わる。",
+          "hyouki": [
+            "ストレス"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。",
+          "hyouki": [
+            "気温"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>温</rb><rt>あたた</rt></ruby>かくする。<ruby><rb>冷</rb><rt>つめ</rt></ruby>たくなくする。",
+          "hyouki": [
+            "温める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鳥</rb><rt>とり</rt></ruby>が<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>にかかえる。",
+          "hyouki": [
+            "温める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>発表</rb><rt>はっぴょう</rt></ruby>せずに<ruby><rb>手</rb><rt>て</rt></ruby>もとにおく。",
+          "hyouki": [
+            "温める"
+          ]
+        }
+      ]
+    }
+  }
+}

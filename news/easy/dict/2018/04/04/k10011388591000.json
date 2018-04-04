@@ -1,0 +1,108 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>団体</rb><rt>だんたい</rt></ruby>や<ruby><rb>個人</rb><rt>こじん</rt></ruby>が、インターネットを<ruby><rb>通</rb><rt>つう</rt></ruby>じて<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>を<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせるために、<ruby><rb>用意</rb><rt>ようい</rt></ruby>する<ruby><rb>画面</rb><rt>がめん</rt></ruby>。",
+          "hyouki": [
+            "ホームページ"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」の<ruby><rb>表紙</rb><rt>ひょうし</rt></ruby>となるページ。",
+          "hyouki": [
+            "ホームページ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>本物</rb><rt>ほんもの</rt></ruby>に<ruby><rb>似</rb><rt>に</rt></ruby>せて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "偽物"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。",
+          "hyouki": [
+            "突然"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "すべて<ruby><rb>思</rb><rt>おも</rt></ruby>うようになっていて、<ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>不満</rb><rt>ふまん</rt></ruby>のないこと。",
+          "hyouki": [
+            "満足"
+          ]
+        },
+        {
+          "def": "<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>であること。<ruby><rb>完全</rb><rt>かんぜん</rt></ruby>。",
+          "hyouki": [
+            "満足"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "しるし。<ruby><rb>記号</rb><rt>きごう</rt></ruby>。また、しるしをつけること。",
+          "hyouki": [
+            "マーク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>目</rb><rt>め</rt></ruby>をつけて<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。",
+          "hyouki": [
+            "マーク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>記録</rb><rt>きろく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ること。",
+          "hyouki": [
+            "マーク"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "画面"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011387631000",
+  "news_prearranged_time": "2018-04-04 11:30:00",
+  "title": "新しいビール　果物やハーブも使うことができる",
+  "title_with_ruby": "<ruby>新<rt>あたら</rt></ruby>しいビール　<ruby>果物<rt>くだもの</rt></ruby>やハーブも<ruby>使<rt>つか</rt></ruby>うことができる",
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'>ビール</a>は、つくるときに<ruby>使<rt>つか</rt></ruby>ってもいい<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>材料<rt>ざいりょう</rt></ruby></a>や<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>麦芽<rt>ばくが</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>割合<rt>わりあい</rt></ruby></a>が<ruby>法律<rt>ほうりつ</rt></ruby>で<ruby>決<rt>き</rt></ruby>まっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180402/../20180402/K10011387631_1804012025_1804020437_01_02.jpg",
+  "news_web_movie_uri": "k10011387631_201804020616_201804020617.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011387631000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011387631000/k10011387631000.html"
+}

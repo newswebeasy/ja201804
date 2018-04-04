@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011389381000",
+  "news_prearranged_time": "2018-04-04 16:00:00",
+  "title": "東京の丸の内　ビルの警備などにロボットを使う",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>丸<rt>まる</rt></ruby>の<ruby>内<rt>うち</rt></ruby>　ビルの<ruby>警備<rt>けいび</rt></ruby>などにロボットを<ruby>使<rt>つか</rt></ruby>う",
+  "outline_with_ruby": "<p><ruby>東京駅<rt>とうきょうえき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>丸<rt>まる</rt></ruby>の<ruby>内<rt>うち</rt></ruby>には<ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>店<rt>みせ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったビルがたくさんあります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180403/../20180403/K10011389381_1804031509_1804031516_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011389381000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011389381000/k10011389381000.html"
+}
