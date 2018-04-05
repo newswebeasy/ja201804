@@ -1,0 +1,100 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。",
+          "hyouki": [
+            "親"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。",
+          "hyouki": [
+            "無料"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>営利</rb><rt>えいり</rt></ruby>を<ruby><rb>目的</rb><rt>もくてき</rt></ruby>とせずに<ruby><rb>社会的</rb><rt>しゃかいてき</rt></ruby>な<ruby><rb>活動</rb><rt>かつどう</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "NPO"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "交流"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。",
+          "hyouki": [
+            "交流"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。",
+          "hyouki": [
+            "役所"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ]
+    }
+  }
+}

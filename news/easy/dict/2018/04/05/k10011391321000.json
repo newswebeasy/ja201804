@@ -1,0 +1,142 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>正</rb><rt>ただ</rt></ruby>しくないこと。",
+          "hyouki": [
+            "不正"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>行動</rb><rt>こうどう</rt></ruby>と<ruby><rb>心</rb><rt>こころ</rt></ruby>のはたらきやようすを<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>学問</rb><rt>がくもん</rt></ruby>。",
+          "hyouki": [
+            "心理学"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "その<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>生</rb><rt>う</rt></ruby>まれつき<ruby><rb>持</rb><rt>も</rt></ruby>っている<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。<ruby><rb>人</rb><rt>ひと</rt></ruby>がら。",
+          "hyouki": [
+            "性格"
+          ]
+        },
+        {
+          "def": "ものごとが<ruby><rb>持</rb><rt>も</rt></ruby>っている<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。",
+          "hyouki": [
+            "性格"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>質問</rb><rt>しつもん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>して、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>答</rb><rt>こた</rt></ruby>えさせる<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。",
+          "hyouki": [
+            "クイズ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ほかのコンピューターから<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のパソコンなどに、<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なデータを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>入</rb><rt>い</rt></ruby>れること。",
+          "hyouki": [
+            "ダウンロード"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。<ruby><rb>動作</rb><rt>どうさ</rt></ruby>。",
+          "hyouki": [
+            "行動"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。",
+          "hyouki": [
+            "選挙"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>味方</rb><rt>みかた</rt></ruby>を、はげますこと。",
+          "hyouki": [
+            "応援"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>をかして<ruby><rb>助</rb><rt>たす</rt></ruby>けること。",
+          "hyouki": [
+            "応援"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ]
+    }
+  }
+}

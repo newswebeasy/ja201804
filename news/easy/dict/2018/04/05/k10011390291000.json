@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>面積</rb><rt>めんせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「ha」。１ヘクタールは、１００アールで、<ruby><rb>１万平方</rb><rt>いちまんへいほう</rt></ruby>メートル。",
+          "hyouki": [
+            "ヘクタール"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>の<ruby><rb>芽</rb><rt>め</rt></ruby>や<ruby><rb>根</rb><rt>ね</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>る。また、のびて<ruby><rb>育</rb><rt>そだ</rt></ruby>つ。",
+          "hyouki": [
+            "生える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>歯</rb><rt>は</rt></ruby>やひげ、<ruby><rb>毛</rb><rt>け</rt></ruby>がのび<ruby><rb>出</rb><rt>で</rt></ruby>る。",
+          "hyouki": [
+            "生える"
+          ]
+        }
+      ]
+    }
+  }
+}

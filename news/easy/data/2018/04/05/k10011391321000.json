@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011391321000",
+  "news_prearranged_time": "2018-04-05 15:35:00",
+  "title": "フェイスブック「８７００万人の情報が不正に使われた」",
+  "title_with_ruby": "フェイスブック「８７００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>不正<rt>ふせい</rt></ruby>に<ruby>使<rt>つか</rt></ruby>われた」",
+  "outline_with_ruby": "<p>アメリカのフェイスブックを<ruby>利用<rt>りよう</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>情報<rt>じょうほう</rt></ruby></a>が、ほかの<ruby>会社<rt>かいしゃ</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>不正<rt>ふせい</rt></ruby></a>に<ruby>使<rt>つか</rt></ruby>われていたことがわかって<ruby>問題<rt>もんだい</rt></ruby>になっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180405/../20180405/K10011391321_1804050540_1804050540_01_02.jpg",
+  "news_web_movie_uri": "k10011391321_201804050912_201804050915.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011391321000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011391321000/k10011391321000.html"
+}
