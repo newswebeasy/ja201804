@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011392731000",
+  "news_prearranged_time": "2018-04-06 15:40:00",
+  "title": "アニメーション映画で有名な高畑勲さんが亡くなる",
+  "title_with_ruby": "アニメーション<ruby>映画<rt>えいが</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>高畑勲<rt>たかはたいさお</rt></ruby>さんが<ruby>亡<rt>な</rt></ruby>くなる",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>アニメーション</a><ruby>映画<rt>えいが</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>監督<rt>かんとく</rt></ruby></a>で<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>高畑勲<rt>たかはたいさお</rt></ruby>さんが、<ruby>５日<rt>いつか</rt></ruby>、<ruby>亡<rt>な</rt></ruby>くなりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180406/../20180406/K10011392731_1804060705_1804060707_01_03.jpg",
+  "news_web_movie_uri": "k10011392731_201804060907_201804060908.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011392731000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011392731000/k10011392731000.html"
+}
