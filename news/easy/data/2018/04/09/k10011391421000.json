@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011391421000",
+  "news_prearranged_time": "2018-04-09 11:30:00",
+  "title": "アメリカのワシントンで東京からもらった桜の花が咲く",
+  "title_with_ruby": "アメリカのワシントンで<ruby>東京<rt>とうきょう</rt></ruby>からもらった<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く",
+  "outline_with_ruby": "<p>アメリカの<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>首都<rt>しゅと</rt></ruby></a>ワシントンにあるポトマック<ruby>川<rt>がわ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りには、１９１２<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>からもらった<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>約<rt>やく</rt></ruby></a>３０００<ruby>本<rt>ぼん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>桜<rt>さくら</rt></ruby></a>の<ruby>木<rt>き</rt></ruby>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180405/../20180405/K10011391421_1804051009_1804051024_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011391421000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011391421000/k10011391421000.html"
+}

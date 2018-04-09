@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "たばこをすってはいけないこと。",
+          "hyouki": [
+            "禁煙"
+          ]
+        },
+        {
+          "def": "たばこをやめること。",
+          "hyouki": [
+            "禁煙"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>貸</rb><rt>か</rt></ruby>し<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "レンタカー"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>乗</rb><rt>の</rt></ruby>るように<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "乗用車"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>小型</rb><rt>こがた</rt></ruby>の<ruby><rb>荷物台</rb><rt>にもつだい</rt></ruby>の<ruby><rb>脚</rb><rt>あし</rt></ruby>に<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>をつけた<ruby><rb>手</rb><rt>て</rt></ruby>おし<ruby><rb>車</rb><rt>ぐるま</rt></ruby>。<ruby><rb>料理</rb><rt>りょうり</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>んだり<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>並</rb><rt>なら</rt></ruby>べたりする。",
+          "hyouki": [
+            "ワゴン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>後</rb><rt>うし</rt></ruby>ろの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>に<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>めるようにした、<ruby><rb>箱形</rb><rt>はこがた</rt></ruby>の<ruby><rb>乗用車</rb><rt>じょうようしゃ</rt></ruby>。ワゴン<ruby><rb>車</rb><rt>しゃ</rt></ruby>。",
+          "hyouki": [
+            "ワゴン"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "じくを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>に<ruby><rb>回</rb><rt>まわ</rt></ruby>る<ruby><rb>輪</rb><rt>わ</rt></ruby>。くるま。",
+          "hyouki": [
+            "車"
+          ]
+        },
+        {
+          "def": "くるまのついた<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "車"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。",
+          "hyouki": [
+            "健康"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。",
+          "hyouki": [
+            "健康"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>名前</rb><rt>なまえ</rt></ruby>。",
+          "hyouki": [
+            "種目"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>でいちばんすぐれた<ruby><rb>記録</rb><rt>きろく</rt></ruby>。",
+          "hyouki": [
+            "日本記録"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "女子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。",
+          "hyouki": [
+            "女子"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "チョウ。ちょうちょ。",
+          "hyouki": [
+            "バタフライ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>泳</rb><rt>およ</rt></ruby>ぎ<ruby><rb>方</rb><rt>かた</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>両手</rb><rt>りょうて</rt></ruby>で<ruby><rb>同時</rb><rt>どうじ</rt></ruby>に<ruby><rb>水</rb><rt>みず</rt></ruby>をかき、<ruby><rb>両足</rb><rt>りょうあし</rt></ruby>をそろえて<ruby><rb>水</rb><rt>みず</rt></ruby>をける。",
+          "hyouki": [
+            "バタフライ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>水泳競技</rb><rt>すいえいきょうぎ</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>泳</rb><rt>およ</rt></ruby>ぎ<ruby><rb>方</rb><rt>かた</rt></ruby>は<ruby><rb>自由</rb><rt>じゆう</rt></ruby>だが、ふつうは、クロールで<ruby><rb>泳</rb><rt>およ</rt></ruby>ぐ。",
+          "hyouki": [
+            "自由形"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。",
+          "hyouki": [
+            "記録"
+          ]
+        },
+        {
+          "def": "<ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。",
+          "hyouki": [
+            "記録"
+          ]
+        }
+      ]
+    }
+  }
+}
