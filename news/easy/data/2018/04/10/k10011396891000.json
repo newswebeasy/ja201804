@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011396891000",
+  "news_prearranged_time": "2018-04-10 15:30:00",
+  "title": "四国と本州の間に瀬戸大橋ができてから３０年",
+  "title_with_ruby": "<ruby>四国<rt>しこく</rt></ruby>と<ruby>本州<rt>ほんしゅう</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>瀬戸大橋<rt>せとおおはし</rt></ruby>ができてから３０<ruby>年<rt>ねん</rt></ruby>",
+  "outline_with_ruby": "<p><ruby>瀬戸大橋<rt>せとおおはし</rt></ruby>は<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>四国<rt>しこく</rt></ruby></a>の<ruby>香川県<rt>かがわけん</rt></ruby>と<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>本州<rt>ほんしゅう</rt></ruby></a>の<ruby>岡山県<rt>おかやまけん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にある<ruby>橋<rt>はし</rt></ruby>です。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180410/../20180410/K10011396891_1804100512_1804100534_01_03.jpg",
+  "news_web_movie_uri": "k10011396891_201804100512_201804100534.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011396891000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011396891000/k10011396891000.html"
+}

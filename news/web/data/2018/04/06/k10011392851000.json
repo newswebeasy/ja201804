@@ -25,7 +25,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011392851000/k10011392851000.html",
+      "title": "小学校１年生の将来の夢 「ユーチューバー」も人気",
+      "time": "NEWSWEB EASY 4月10日",
+      "datetime": "2018-04-10"
+    }
+  ],
   "word": [],
   "news_id": "k10011392851000",
   "yyyy": "2018",

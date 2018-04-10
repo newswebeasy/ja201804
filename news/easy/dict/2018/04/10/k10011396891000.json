@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>瀬戸内海</rb><rt>せとないかい</rt></ruby>をはさんで<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>と<ruby><rb>向</rb><rt>む</rt></ruby>かい<ruby><rb>合</rb><rt>あ</rt></ruby>っている<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>島</rb><rt>しま</rt></ruby>。<ruby><rb>香川</rb><rt>かがわ</rt></ruby>・<ruby><rb>高知</rb><rt>こうち</rt></ruby>・<ruby><rb>愛媛</rb><rt>えひめ</rt></ruby>・<ruby><rb>徳島</rb><rt>とくしま</rt></ruby>の四<ruby><rb>県</rb><rt>けん</rt></ruby>がある。",
+          "hyouki": [
+            "四国地方"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>日本列島</rb><rt>にっぽんれっとう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、いちばん<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>島</rb><rt>しま</rt></ruby>。",
+          "hyouki": [
+            "本州"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>新</rb><rt>あたら</rt></ruby>しくて、<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>生</rb><rt>い</rt></ruby>きしているようす。",
+          "hyouki": [
+            "新鮮"
+          ]
+        },
+        {
+          "def": "すがすがしくて、よごれていないようす。",
+          "hyouki": [
+            "新鮮"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "知事"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>栄</rb><rt>さか</rt></ruby>えていくこと。<ruby><rb>勢</rb><rt>いきお</rt></ruby>いが、のび<ruby><rb>広</rb><rt>ひろ</rt></ruby>がること。",
+          "hyouki": [
+            "発展"
+          ]
+        },
+        {
+          "def": "<ruby><rb>次</rb><rt>つぎ</rt></ruby>の<ruby><rb>段階</rb><rt>だんかい</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>むこと。",
+          "hyouki": [
+            "発展"
+          ]
+        }
+      ]
+    }
+  }
+}
