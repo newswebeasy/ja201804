@@ -1,0 +1,84 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>もとにあるお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "現金"
+          ]
+        },
+        {
+          "def": "<ruby><rb>小切手</rb><rt>こぎって</rt></ruby>などではなく、<ruby><rb>実際</rb><rt>じっさい</rt></ruby>のお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "現金"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>場</rb><rt>ば</rt></ruby>の<ruby><rb>損得</rb><rt>そんとく</rt></ruby>で、<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>変</rb><rt>か</rt></ruby>えるようす。",
+          "hyouki": [
+            "現金"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>現金</rb><rt>げんきん</rt></ruby>を<ruby><rb>払</rb><rt>はら</rt></ruby>わなくても、<ruby><rb>後払</rb><rt>あとばら</rt></ruby>いで<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>物</rb><rt>もの</rt></ruby>をすることができるカード。",
+          "hyouki": [
+            "クレジットカード"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>との<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>引</rb><rt>ひ</rt></ruby>きや、<ruby><rb>商業</rb><rt>しょうぎょう</rt></ruby>・<ruby><rb>工業</rb><rt>こうぎょう</rt></ruby>などの<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>をさかんにするための<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>経産省</rb><rt>けいさんしょう</rt></ruby>。",
+          "hyouki": [
+            "経済産業省"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ばらばらだったものを<ruby><rb>一</rb><rt>ひと</rt></ruby>つにする。",
+          "hyouki": [
+            "まとめる"
+          ]
+        },
+        {
+          "def": "うまく<ruby><rb>解決</rb><rt>かいけつ</rt></ruby>する。",
+          "hyouki": [
+            "まとめる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つのものとして、きちんと<ruby><rb>仕上</rb><rt>しあ</rt></ruby>げる。",
+          "hyouki": [
+            "まとめる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ]
+    }
+  }
+}
