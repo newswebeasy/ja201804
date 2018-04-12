@@ -1,0 +1,148 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。",
+          "hyouki": [
+            "温度"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>近畿地方</rb><rt>きんきちほう</rt></ruby>の<ruby><rb>南部</rb><rt>なんぶ</rt></ruby>にある<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>でいちばん<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>半島</rb><rt>はんとう</rt></ruby>。<ruby><rb>和歌山</rb><rt>わかやま</rt></ruby>・<ruby><rb>奈良</rb><rt>なら</rt></ruby>・<ruby><rb>三重</rb><rt>みえ</rt></ruby>の<ruby><rb>各県</rb><rt>かくけん</rt></ruby>をふくむ。",
+          "hyouki": [
+            "紀伊半島"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>暖</rb><rt>あたた</rt></ruby>かい<ruby><rb>海</rb><rt>うみ</rt></ruby>にいるサンゴチュウという<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>群</rb><rt>む</rt></ruby>れをなして、<ruby><rb>海底</rb><rt>かいてい</rt></ruby>の<ruby><rb>岩</rb><rt>いわ</rt></ruby>などにつき、<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>枝</rb><rt>えだ</rt></ruby>のような<ruby><rb>形</rb><rt>かたち</rt></ruby>に<ruby><rb>成長</rb><rt>せいちょう</rt></ruby>したもの。また、それが<ruby><rb>死</rb><rt>し</rt></ruby>んで<ruby><rb>残</rb><rt>のこ</rt></ruby>った<ruby><rb>骨</rb><rt>ほね</rt></ruby>のようなもの。",
+          "hyouki": [
+            "珊瑚"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>公害</rb><rt>こうがい</rt></ruby>をなくし、<ruby><rb>自然</rb><rt>しぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "環境省"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。",
+          "hyouki": [
+            "平均"
+          ]
+        },
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。",
+          "hyouki": [
+            "平均"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>に<ruby><rb>沿</rb><rt>そ</rt></ruby>って、<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>を<ruby><rb>南</rb><rt>みなみ</rt></ruby>から<ruby><rb>北</rb><rt>きた</rt></ruby>へ<ruby><rb>流</rb><rt>なが</rt></ruby>れる<ruby><rb>暖流</rb><rt>だんりゅう</rt></ruby>。<ruby><rb>海水</rb><rt>かいすい</rt></ruby>はあい<ruby><rb>色</rb><rt>いろ</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>える。<ruby><rb>日本海流</rb><rt>にほんかいりゅう</rt></ruby>。",
+          "hyouki": [
+            "黒潮"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>流</rb><rt>なが</rt></ruby>れる<ruby><rb>水</rb><rt>みず</rt></ruby>。<ruby><rb>川</rb><rt>かわ</rt></ruby>。",
+          "hyouki": [
+            "流れ"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>川</rb><rt>かわ</rt></ruby>のように）<ruby><rb>絶</rb><rt>た</rt></ruby>えることなく<ruby><rb>動</rb><rt>うご</rt></ruby>いているもの。",
+          "hyouki": [
+            "流れ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>移</rb><rt>うつ</rt></ruby>り<ruby><rb>変</rb><rt>か</rt></ruby>わり。",
+          "hyouki": [
+            "流れ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>系統</rb><rt>けいとう</rt></ruby>。つながり。<ruby><rb>血筋</rb><rt>ちすじ</rt></ruby>。",
+          "hyouki": [
+            "流れ"
+          ]
+        },
+        {
+          "def": "とりやめになること。",
+          "hyouki": [
+            "流れ"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "くっついていたものが<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>距離</rb><rt>きょり</rt></ruby>がある。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>間</rb><rt>あいだ</rt></ruby>があく。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "やめる。",
+          "hyouki": [
+            "離れる"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "育つ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。",
+          "hyouki": [
+            "育つ"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "たくさんの<ruby><rb>物</rb><rt>もの</rt></ruby>におおわれて<ruby><rb>見</rb><rt>み</rt></ruby>えなくなる。",
+          "hyouki": [
+            "埋まる"
+          ]
+        },
+        {
+          "def": "すき<ruby><rb>間</rb><rt>ま</rt></ruby>なく、いっぱいになる。",
+          "hyouki": [
+            "埋まる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>足</rb><rt>た</rt></ruby>りないところが<ruby><rb>補</rb><rt>おぎな</rt></ruby>われる。",
+          "hyouki": [
+            "埋まる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。",
+          "hyouki": [
+            "行方不明"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>。",
+          "hyouki": [
+            "中心"
+          ]
+        },
+        {
+          "def": "ものごとのいちばんだいじなところ。",
+          "hyouki": [
+            "中心"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。",
+          "hyouki": [
+            "土"
+          ]
+        },
+        {
+          "def": "<ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。",
+          "hyouki": [
+            "土"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "たくさんの<ruby><rb>物</rb><rt>もの</rt></ruby>におおわれて<ruby><rb>見</rb><rt>み</rt></ruby>えなくなる。",
+          "hyouki": [
+            "埋まる"
+          ]
+        },
+        {
+          "def": "すき<ruby><rb>間</rb><rt>ま</rt></ruby>なく、いっぱいになる。",
+          "hyouki": [
+            "埋まる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>足</rb><rt>た</rt></ruby>りないところが<ruby><rb>補</rb><rt>おぎな</rt></ruby>われる。",
+          "hyouki": [
+            "埋まる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>火事</rb><rt>かじ</rt></ruby>を<ruby><rb>消</rb><rt>け</rt></ruby>したり、<ruby><rb>火災</rb><rt>かさい</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>いだりすること。",
+          "hyouki": [
+            "消防"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>横</rb><rt>よこ</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。",
+          "hyouki": [
+            "幅"
+          ]
+        },
+        {
+          "def": "へだたり。<ruby><rb>開</rb><rt>ひら</rt></ruby>き。",
+          "hyouki": [
+            "幅"
+          ]
+        },
+        {
+          "def": "ゆとり。よゆう。",
+          "hyouki": [
+            "幅"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>や<ruby><rb>土地</rb><rt>とち</rt></ruby>の、<ruby><rb>表</rb><rt>おもて</rt></ruby>から<ruby><rb>裏</rb><rt>うら</rt></ruby>までの<ruby><rb>長</rb><rt>なが</rt></ruby>さ。",
+          "hyouki": [
+            "奥行き"
+          ]
+        },
+        {
+          "def": "<ruby><rb>知識</rb><rt>ちしき</rt></ruby>や<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>などの<ruby><rb>奥深</rb><rt>おくぶか</rt></ruby>さ。",
+          "hyouki": [
+            "奥行き"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        }
+      ]
+    }
+  }
+}

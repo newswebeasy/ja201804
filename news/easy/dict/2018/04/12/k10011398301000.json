@@ -1,0 +1,38 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>箱</rb><rt>はこ</rt></ruby>のように、<ruby><rb>長</rb><rt>なが</rt></ruby>さ・はば・<ruby><rb>厚</rb><rt>あつ</rt></ruby>みを<ruby><rb>持</rb><rt>も</rt></ruby>ち、その<ruby><rb>周</rb><rt>まわ</rt></ruby>りが<ruby><rb>面</rb><rt>めん</rt></ruby>で<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれているもの。",
+          "hyouki": [
+            "立体"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "セメント・<ruby><rb>砂</rb><rt>すな</rt></ruby>・じゃりを<ruby><rb>水</rb><rt>みず</rt></ruby>で<ruby><rb>混</rb><rt>ま</rt></ruby>ぜて、<ruby><rb>石</rb><rt>いし</rt></ruby>のように<ruby><rb>固</rb><rt>かた</rt></ruby>まらせたもの。コンクリ。",
+          "hyouki": [
+            "コンクリート"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。",
+          "hyouki": [
+            "温度"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>空気中</rb><rt>くうきちゅう</rt></ruby>にふくまれている、<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>の<ruby><rb>割合</rb><rt>わりあい</rt></ruby>。",
+          "hyouki": [
+            "湿度"
+          ]
+        }
+      ]
+    }
+  }
+}
