@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011398541000",
+  "news_prearranged_time": "2018-04-13 11:30:00",
+  "title": "東京の神保町　喫茶店や仕事をする部屋がある本屋ができる",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>神保<rt>じんぼう</rt></ruby><ruby>町<rt>ちょう</rt></ruby>　<ruby>喫茶店<rt>きっさてん</rt></ruby>や<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>部屋<rt>へや</rt></ruby>がある<ruby>本屋<rt>ほんや</rt></ruby>ができる",
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>神田<rt>かんだ</rt></ruby><ruby>神保町<rt>じんぼうちょう</rt></ruby>は<ruby>本屋<rt>ほんや</rt></ruby>がたくさんあることで<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>町<rt>まち</rt></ruby>です。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180411/../20180411/K10011398541_1804111130_1804111131_01_02.jpg",
+  "news_web_movie_uri": "k10011398541_201804111223_201804111223.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011398541000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011398541000/k10011398541000.html"
+}
