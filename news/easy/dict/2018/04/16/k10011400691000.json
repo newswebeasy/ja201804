@@ -1,0 +1,50 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>って<ruby><rb>得</rb><rt>え</rt></ruby>たお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "売り上げ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって、こうだろうと<ruby><rb>考</rb><rt>かんが</rt></ruby>えること。または、その<ruby><rb>考</rb><rt>かんが</rt></ruby>え。",
+          "hyouki": [
+            "予想"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>商標</rb><rt>しょうひょう</rt></ruby>。",
+          "hyouki": [
+            "ブランド"
+          ]
+        },
+        {
+          "def": "すぐれた<ruby><rb>製品</rb><rt>せいひん</rt></ruby>で<ruby><rb>知</rb><rt>し</rt></ruby>られた<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>。また、そこで<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>。",
+          "hyouki": [
+            "ブランド"
+          ]
+        }
+      ]
+    }
+  }
+}
