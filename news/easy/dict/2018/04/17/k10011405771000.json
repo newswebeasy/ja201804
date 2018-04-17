@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>のいらなくなった<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>や<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>が、<ruby><rb>体外</rb><rt>たいがい</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>されるもの。<ruby><rb>小便</rb><rt>しょうべん</rt></ruby>。おしっこ。",
+          "hyouki": [
+            "尿"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。",
+          "hyouki": [
+            "がん"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "検査"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "物質"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。",
+          "hyouki": [
+            "記録"
+          ]
+        },
+        {
+          "def": "<ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。",
+          "hyouki": [
+            "記録"
+          ]
+        }
+      ]
+    }
+  }
+}

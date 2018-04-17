@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>給料</rb><rt>きゅうりょう</rt></ruby>のほかに、<ruby><rb>夏</rb><rt>なつ</rt></ruby>と<ruby><rb>年末</rb><rt>ねんまつ</rt></ruby>などに<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>にもらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>賞与</rb><rt>しょうよ</rt></ruby>。",
+          "hyouki": [
+            "ボーナス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "調査"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。",
+          "hyouki": [
+            "計算"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。",
+          "hyouki": [
+            "平均"
+          ]
+        },
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。",
+          "hyouki": [
+            "平均"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>商売</rb><rt>しょうばい</rt></ruby>のぐあい。",
+          "hyouki": [
+            "景気"
+          ]
+        },
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>金</rb><rt>かね</rt></ruby><ruby><rb>回</rb><rt>まわ</rt></ruby>りのぐあい。",
+          "hyouki": [
+            "景気"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>い。",
+          "hyouki": [
+            "景気"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ]
+    }
+  }
+}

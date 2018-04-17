@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>・<ruby><rb>市区町村</rb><rt>しくちょうそん</rt></ruby>などの<ruby><rb>地方自治体</rb><rt>ちほうじちたい</rt></ruby>や<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>、<ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>郵便貯金</rb><rt>ゆうびんちょきん</rt></ruby>・<ruby><rb>簡易保険</rb><rt>かんいほけん</rt></ruby>・<ruby><rb>電気通信</rb><rt>でんきつうしん</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "総務省"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。",
+          "hyouki": [
+            "割合"
+          ]
+        },
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。",
+          "hyouki": [
+            "割合"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を４７に<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区画</rb><rt>くかく</rt></ruby>。<ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>・<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>・<ruby><rb>大阪府</rb><rt>おおさかふ</rt></ruby>・<ruby><rb>京都府</rb><rt>きょうとふ</rt></ruby>と、４３の<ruby><rb>県</rb><rt>けん</rt></ruby>。",
+          "hyouki": [
+            "都道府県"
+          ]
+        }
+      ]
+    }
+  }
+}
