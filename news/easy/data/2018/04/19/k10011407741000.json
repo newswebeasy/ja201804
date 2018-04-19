@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011407741000",
+  "news_prearranged_time": "2018-04-19 11:30:00",
+  "title": "ボーイングの飛行機のエンジンに問題が起こる可能性",
+  "title_with_ruby": "ボーイングの<ruby>飛行機<rt>ひこうき</rt></ruby>のエンジンに<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起<rt>お</rt></ruby>こる<ruby>可能性<rt>かのうせい</rt></ruby>",
+  "outline_with_ruby": "<p>アメリカの<ruby>連邦航空局<rt>れんぽうこうくうきょく</rt></ruby>によると、ボーイング７８７という<ruby>飛行機<rt>ひこうき</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>一部<rt>いちぶ</rt></ruby></a>は、<a href='javascript:void(0)' class='dicWin' id='id-0000'>エンジン</a>の<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>部品<rt>ぶひん</rt></ruby></a>に<ruby>問題<rt>もんだい</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>起<rt>お</rt></ruby>こる</a><a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>可能性<rt>かのうせい</rt></ruby></a>があることがわかりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180418/../20180418/K10011407741_1804180737_1804180738_01_03.jpg",
+  "news_web_movie_uri": "k10011407741_201804180624_201804180630.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011407741000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011407741000/k10011407741000.html"
+}

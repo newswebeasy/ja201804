@@ -1,0 +1,210 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>・<ruby><rb>船</rb><rt>ふね</rt></ruby>・<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などを<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>発動機</rb><rt>はつどうき</rt></ruby>。",
+          "hyouki": [
+            "エンジン"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てている、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>の<ruby><rb>品</rb><rt>しな</rt></ruby>。<ruby><rb>部分品</rb><rt>ぶぶんひん</rt></ruby>。",
+          "hyouki": [
+            "部品"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。",
+          "hyouki": [
+            "ルート"
+          ]
+        },
+        {
+          "def": "<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。",
+          "hyouki": [
+            "ルート"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>づる。",
+          "hyouki": [
+            "ルート"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ものごとが<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>つために<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なことがら。",
+          "hyouki": [
+            "条件"
+          ]
+        },
+        {
+          "def": "あることを<ruby><rb>決</rb><rt>き</rt></ruby>めるのに、<ruby><rb>約束</rb><rt>やくそく</rt></ruby>しておくことがら。",
+          "hyouki": [
+            "条件"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>にだいじで、<ruby><rb>急</rb><rt>いそ</rt></ruby>いでしなければならないこと。",
+          "hyouki": [
+            "緊急"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "とき。きっかけ。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動</rb><rt>うご</rt></ruby>き。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "はたらき。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。",
+          "hyouki": [
+            "機"
+          ]
+        },
+        {
+          "def": "「<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。また、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "機"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>交通</rb><rt>こうつう</rt></ruby>・<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運送</rb><rt>うんそう</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>国交省</rb><rt>こっこうしょう</rt></ruby>。",
+          "hyouki": [
+            "国土交通省"
+          ]
+        }
+      ]
+    }
+  }
+}

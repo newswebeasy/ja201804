@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>資格</rb><rt>しかく</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>って、お<ruby><rb>客</rb><rt>きゃく</rt></ruby>の<ruby><rb>顔</rb><rt>かお</rt></ruby>や<ruby><rb>髪</rb><rt>かみ</rt></ruby>などを、<ruby><rb>美</rb><rt>うつく</rt></ruby>しくととのえる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "美容師"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のために、それぞれの<ruby><rb>役割</rb><rt>やくわり</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>って<ruby><rb>働</rb><rt>はたら</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>たち。",
+          "hyouki": [
+            "スタッフ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映画</rb><rt>えいが</rt></ruby>や<ruby><rb>劇</rb><rt>げき</rt></ruby>、テレビなどで、<ruby><rb>出演者</rb><rt>しゅつえんしゃ</rt></ruby><ruby><rb>以外</rb><rt>いがい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>係</rb><rt>かかり</rt></ruby>。<ruby><rb>監督</rb><rt>かんとく</rt></ruby>・カメラマン・<ruby><rb>道具係</rb><rt>どうぐがかり</rt></ruby>など。",
+          "hyouki": [
+            "スタッフ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>時期</rb><rt>じき</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めて<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、もよおし。",
+          "hyouki": [
+            "行事"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>緊張</rb><rt>きんちょう</rt></ruby>しないで、のんびりと<ruby><rb>楽</rb><rt>らく</rt></ruby>にすること。",
+          "hyouki": [
+            "リラックス"
+          ]
+        }
+      ]
+    }
+  }
+}

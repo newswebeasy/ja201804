@@ -1,0 +1,63 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ある<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>つこと。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "係",
+            "掛"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "のばしたものが、つく。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>きわたる。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。",
+          "hyouki": [
+            "届く"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ]
+    }
+  }
+}

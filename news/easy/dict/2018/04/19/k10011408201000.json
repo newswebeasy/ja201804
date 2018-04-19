@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「フィギュアスケート」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>を、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせておどるようにすべって、<ruby><rb>美</rb><rt>うつく</rt></ruby>しさやわざをきそうスケート<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。",
+          "hyouki": [
+            "フィギュア"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>着物</rb><rt>きもの</rt></ruby>。<ruby><rb>衣服</rb><rt>いふく</rt></ruby>。",
+          "hyouki": [
+            "衣装"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>並</rb><rt>なら</rt></ruby>べて、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "展示"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "スポーツや<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>などが、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>に<ruby><rb>好</rb><rt>す</rt></ruby>きな<ruby><rb>人</rb><rt>ひと</rt></ruby>。または、ある<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>や、<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>などを<ruby><rb>熱心</rb><rt>ねっしん</rt></ruby>に<ruby><rb>応援</rb><rt>おうえん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。フアン。",
+          "hyouki": [
+            "ファン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>扇風機</rb><rt>せんぷうき</rt></ruby>。<ruby><rb>送風機</rb><rt>そうふうき</rt></ruby>。<ruby><rb>換気扇</rb><rt>かんきせん</rt></ruby>。",
+          "hyouki": [
+            "ファン"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>白</rb><rt>しろ</rt></ruby>くて<ruby><rb>美</rb><rt>うつく</rt></ruby>しいつやを<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>金</rb><rt>きん</rt></ruby>より<ruby><rb>軽</rb><rt>かる</rt></ruby>くてかたい。",
+          "hyouki": [
+            "銀"
+          ]
+        },
+        {
+          "def": "ぎん<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "銀"
+          ]
+        },
+        {
+          "def": "おかね。",
+          "hyouki": [
+            "銀"
+          ]
+        },
+        {
+          "def": "<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "銀"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。",
+          "hyouki": [
+            "メダル"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>生</rb><rt>う</rt></ruby>まれ<ruby><rb>育</rb><rt>そだ</rt></ruby>った<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>故郷</rb><rt>こきょう</rt></ruby>。",
+          "hyouki": [
+            "ふるさと"
+          ]
+        }
+      ]
+    }
+  }
+}

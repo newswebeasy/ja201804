@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>性</rb><rt>せい</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>して<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>不快</rb><rt>ふかい</rt></ruby>にしたり<ruby><rb>不安</rb><rt>ふあん</rt></ruby>にしたりする、いやがらせ。セクハラ。",
+          "hyouki": [
+            "セクシャルハラスメント"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>大臣</rb><rt>だいじん</rt></ruby>・<ruby><rb>副</rb><rt>ふく</rt></ruby><ruby><rb>大臣</rb><rt>だいじん</rt></ruby>の<ruby><rb>次</rb><rt>つぎ</rt></ruby>の<ruby><rb>位</rb><rt>くらい</rt></ruby>の<ruby><rb>役人</rb><rt>やくにん</rt></ruby>。",
+          "hyouki": [
+            "次官"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "職員"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。",
+          "hyouki": [
+            "トップ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "記者"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "できごとやものごとを<ruby><rb>伝</rb><rt>つた</rt></ruby>えるために、<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。",
+          "hyouki": [
+            "記事"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "やかましいこと。",
+          "hyouki": [
+            "騒ぎ"
+          ]
+        },
+        {
+          "def": "もめごと。",
+          "hyouki": [
+            "騒ぎ"
+          ]
+        },
+        {
+          "def": "そのような<ruby><rb>場合</rb><rt>ばあい</rt></ruby>ではない。",
+          "hyouki": [
+            "騒ぎ"
+          ]
+        }
+      ]
+    }
+  }
+}
