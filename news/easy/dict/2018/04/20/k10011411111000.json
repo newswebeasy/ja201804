@@ -1,0 +1,116 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "めでたいことを<ruby><rb>喜</rb><rt>よろこ</rt></ruby>び、ことばや<ruby><rb>行</rb><rt>おこな</rt></ruby>いに<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。",
+          "hyouki": [
+            "祝う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せであるようにいのる。",
+          "hyouki": [
+            "祝う"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "売り出す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られ<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "売り出す"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>女性</rb><rt>じょせい</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>。クイーン。",
+          "hyouki": [
+            "女王"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>子</rb><rt>こ</rt></ruby>ども。",
+          "hyouki": [
+            "孫"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "売り出す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られ<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "売り出す"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>想像</rb><rt>そうぞう</rt></ruby>して、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にえがき<ruby><rb>出</rb><rt>だ</rt></ruby>す、ものの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "イメージ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "調査"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>勤</rb><rt>つと</rt></ruby>め。<ruby><rb>商売</rb><rt>しょうばい</rt></ruby>。",
+          "hyouki": [
+            "ビジネス"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。",
+          "hyouki": [
+            "計算"
+          ]
+        }
+      ]
+    }
+  }
+}

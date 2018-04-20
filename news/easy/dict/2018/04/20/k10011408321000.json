@@ -1,0 +1,34 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        },
+        {
+          "def": "<ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        },
+        {
+          "def": "（いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。また、<ruby><rb>知</rb><rt>し</rt></ruby>らせるために<ruby><rb>書</rb><rt>か</rt></ruby>かれたものなど。コマーシャル。",
+          "hyouki": [
+            "広告"
+          ]
+        }
+      ]
+    }
+  }
+}

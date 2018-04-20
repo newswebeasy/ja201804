@@ -1,0 +1,174 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。",
+          "hyouki": [
+            "禁止"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。",
+          "hyouki": [
+            "イスラム教"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>教</rb><rt>おし</rt></ruby>え<ruby><rb>導</rb><rt>みちび</rt></ruby>くこと。",
+          "hyouki": [
+            "指導"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "者"
+          ]
+        },
+        {
+          "def": "ものごと。ことがら。",
+          "hyouki": [
+            "者"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>人</rb><rt>ひと</rt></ruby>。おうさま。",
+          "hyouki": [
+            "王"
+          ]
+        },
+        {
+          "def": "そのことにいちばんすぐれていること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "王"
+          ]
+        },
+        {
+          "def": "<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>の<ruby><rb>王将</rb><rt>おうしょう</rt></ruby>。",
+          "hyouki": [
+            "王"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>楽</rb><rt>たの</rt></ruby>しみ。なぐさみ。",
+          "hyouki": [
+            "娯楽"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。",
+          "hyouki": [
+            "分ける"
+          ]
+        }
+      ]
+    }
+  }
+}
