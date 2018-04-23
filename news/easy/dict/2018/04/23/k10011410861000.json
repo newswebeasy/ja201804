@@ -1,0 +1,42 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>薬</rb><rt>くすり</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などのはたらきで、<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>起</rb><rt>お</rt></ruby>きるようにしてある<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。",
+          "hyouki": [
+            "電池"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>破</rb><rt>やぶ</rt></ruby>れること。また、さけること。",
+          "hyouki": [
+            "破裂"
+          ]
+        },
+        {
+          "def": "<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>いがつかず、だめになること。",
+          "hyouki": [
+            "破裂"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ]
+    }
+  }
+}

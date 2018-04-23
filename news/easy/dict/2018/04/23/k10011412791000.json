@@ -1,0 +1,125 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>武芸</rb><rt>ぶげい</rt></ruby>を<ruby><rb>身</rb><rt>み</rt></ruby>につけて、いくさで<ruby><rb>戦</rb><rt>たたか</rt></ruby>った<ruby><rb>人</rb><rt>ひと</rt></ruby>。さむらい。",
+          "hyouki": [
+            "武士"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>形</rb><rt>かたち</rt></ruby>。",
+          "hyouki": [
+            "格好","・",
+            "恰好"
+          ]
+        },
+        {
+          "def": "ていさい。",
+          "hyouki": [
+            "格好","・",
+            "恰好"
+          ]
+        },
+        {
+          "def": "ちょうど<ruby><rb>合</rb><rt>あ</rt></ruby>っているようす。",
+          "hyouki": [
+            "格好","・",
+            "恰好"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>馬</rb><rt>うま</rt></ruby>。",
+          "hyouki": [
+            "駒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>などで、<ruby><rb>盤</rb><rt>ばん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>並</rb><rt>なら</rt></ruby>べて<ruby><rb>動</rb><rt>うご</rt></ruby>かすもの。",
+          "hyouki": [
+            "駒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>弦楽器</rb><rt>げんがっき</rt></ruby>の、<ruby><rb>弦</rb><rt>げん</rt></ruby>を<ruby><rb>支</rb><rt>ささ</rt></ruby>える<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>木片</rb><rt>もくへん</rt></ruby>。",
+          "hyouki": [
+            "駒"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>縦</rb><rt>たて</rt></ruby>・<ruby><rb>横</rb><rt>よこ</rt></ruby>に１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>板</rb><rt>いた</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で、２０<ruby><rb>枚</rb><rt>まい</rt></ruby>ずつのこまを<ruby><rb>動</rb><rt>うご</rt></ruby>かし、<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>るゲーム。",
+          "hyouki": [
+            "将棋"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "（１５３６～１５９８）<ruby><rb>安土桃山時代</rb><rt>あづちももやまじだい</rt></ruby>の<ruby><rb>武将</rb><rt>ぶしょう</rt></ruby>。<ruby><rb>織田信長</rb><rt>おだのぶなが</rt></ruby>の<ruby><rb>死</rb><rt>し</rt></ruby>んだあと、<ruby><rb>天下</rb><rt>てんか</rt></ruby>を<ruby><rb>統一</rb><rt>とういつ</rt></ruby>。<ruby><rb>検地</rb><rt>けんち</rt></ruby>・<ruby><rb>刀狩</rb><rt>かたなが</rt></ruby>りなどを<ruby><rb>行</rb><rt>おこな</rt></ruby>った。",
+          "hyouki": [
+            "豊臣秀吉"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。",
+          "hyouki": [
+            "桜"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>、いくさのとき、<ruby><rb>刀</rb><rt>かたな</rt></ruby>や<ruby><rb>矢</rb><rt>や</rt></ruby>から<ruby><rb>身</rb><rt>み</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>着</rb><rt>き</rt></ruby>たもの。",
+          "hyouki": [
+            "よろい"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>り、さおなどの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、かざりや<ruby><rb>目</rb><rt>め</rt></ruby>じるしとするもの。",
+          "hyouki": [
+            "旗"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        },
+        {
+          "def": "「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        }
+      ]
+    }
+  }
+}

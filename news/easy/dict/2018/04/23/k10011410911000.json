@@ -1,0 +1,44 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>住</rb><rt>す</rt></ruby>まい。<ruby><rb>宮城</rb><rt>きゅうじょう</rt></ruby>。",
+          "hyouki": [
+            "皇居"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>観光</rb><rt>かんこう</rt></ruby>やスポーツなどのために、<ruby><rb>団体</rb><rt>だんたい</rt></ruby>で<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。",
+          "hyouki": [
+            "ツアー"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>皇室</rb><rt>こうしつ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>事務</rb><rt>じむ</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "宮内庁"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>ったり<ruby><rb>来</rb><rt>き</rt></ruby>たりすること。<ruby><rb>行</rb><rt>い</rt></ruby>きと<ruby><rb>帰</rb><rt>かえ</rt></ruby>り。",
+          "hyouki": [
+            "往復"
+          ]
+        },
+        {
+          "def": "やり<ruby><rb>取</rb><rt>と</rt></ruby>り。",
+          "hyouki": [
+            "往復"
+          ]
+        }
+      ]
+    }
+  }
+}

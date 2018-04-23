@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011413001000",
+  "news_prearranged_time": "2018-04-23 15:45:00",
+  "title": "「世界でいちばん長生き」の１１７歳の女性が亡くなる",
+  "title_with_ruby": "「<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>長生<rt>ながい</rt></ruby>き」の１１７<ruby>歳<rt>さい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる",
+  "outline_with_ruby": "<p><ruby>鹿児島県<rt>かごしまけん</rt></ruby><ruby>喜界町<rt>きかいちょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>田島<rt>たじま</rt></ruby>ナビさんが２１<ruby>日<rt>にち</rt></ruby>、１１７<ruby>歳<rt>さい</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180421/../20180421/K10011413001_1804212310_1804212312_01_03.jpg",
+  "news_web_movie_uri": "k10011413001_201804212310_201804212311.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011413001000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011413001000/k10011413001000.html"
+}

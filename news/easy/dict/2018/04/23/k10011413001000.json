@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>生</rb><rt>い</rt></ruby>きること。<ruby><rb>長命</rb><rt>ちょうめい</rt></ruby>。",
+          "hyouki": [
+            "長生き"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "知事"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>三本</rb><rt>さんぼん</rt></ruby>の<ruby><rb>弦</rb><rt>げん</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>り、ばちではじいて<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>楽器</rb><rt>がっき</rt></ruby>。",
+          "hyouki": [
+            "三味線"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。",
+          "hyouki": [
+            "動かす"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>の、<ruby><rb>音</rb><rt>おと</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>い。<ruby><rb>調</rb><rt>しら</rt></ruby>べ。",
+          "hyouki": [
+            "調子"
+          ]
+        },
+        {
+          "def": "ぐあい。",
+          "hyouki": [
+            "調子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>回</rb><rt>まわ</rt></ruby>し。<ruby><rb>口調</rb><rt>くちょう</rt></ruby>。",
+          "hyouki": [
+            "調子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>い。",
+          "hyouki": [
+            "調子"
+          ]
+        }
+      ]
+    }
+  }
+}
