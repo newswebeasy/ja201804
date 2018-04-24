@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>支</rb><rt>ささ</rt></ruby>えているかたいもの。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>のしんにする<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>竹</rb><rt>たけ</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "へこたれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。",
+          "hyouki": [
+            "骨"
+          ]
+        },
+        {
+          "def": "<ruby><rb>苦労</rb><rt>くろう</rt></ruby>なこと。",
+          "hyouki": [
+            "骨"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        },
+        {
+          "def": "コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "まゆと、<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>毛</rb><rt>け</rt></ruby>の<ruby><rb>生</rb><rt>は</rt></ruby>えぎわの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。おでこ。",
+          "hyouki": [
+            "額"
+          ]
+        }
+      ]
+    }
+  }
+}
