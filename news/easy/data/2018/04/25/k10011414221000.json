@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011414221000",
+  "news_prearranged_time": "2018-04-25 11:30:00",
+  "title": "ローソン　レジに並ばないでスマートフォンでお金を払う",
+  "title_with_ruby": "ローソン　レジに<ruby>並<rt>なら</rt></ruby>ばないでスマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>コンビニ</a>のローソンは、<ruby>店<rt>みせ</rt></ruby>でレジに<ruby>並<rt>なら</rt></ruby>ばなくてもスマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>うことができる<a href='javascript:void(0)' class='dicWin' id='id-0001'>システム</a>のテストを<ruby>始<rt>はじ</rt></ruby>めました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180423/../20180423/K10011414221_1804231512_1804231514_01_03.jpg",
+  "news_web_movie_uri": "k10011414221_201804231512_201804231514.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011414221000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011414221000/k10011414221000.html"
+}

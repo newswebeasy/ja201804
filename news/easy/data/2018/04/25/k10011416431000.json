@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011416431000",
+  "news_prearranged_time": "2018-04-25 15:30:00",
+  "title": "カナダ　車が歩いている人をはねて１０人が亡くなる",
+  "title_with_ruby": "カナダ　<ruby>車<rt>くるま</rt></ruby>が<ruby>歩<rt>ある</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>をはねて１０<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる",
+  "outline_with_ruby": "<p>カナダのトロントで２３<ruby>日<rt>にち</rt></ruby>、<ruby>車<rt>くるま</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>歩道<rt>ほどう</rt></ruby></a>を<ruby>歩<rt>ある</rt></ruby>いていた<ruby>人<rt>ひと</rt></ruby>たちを<a href='javascript:void(0)' class='dicWin' id='id-0002'>はねる</a><a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>事件<rt>じけん</rt></ruby></a>がありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180425/../20180425/K10011416431_1804250825_1804250826_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011416431000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011416431000/k10011416431000.html"
+}
