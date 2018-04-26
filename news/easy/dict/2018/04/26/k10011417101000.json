@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>蓄電池</rb><rt>ちくでんち</rt></ruby>に<ruby><rb>電気</rb><rt>でんき</rt></ruby>をたくわえること。",
+          "hyouki": [
+            "充電"
+          ]
+        },
+        {
+          "def": "<ruby><rb>活力</rb><rt>かつりょく</rt></ruby>をたくわえること。",
+          "hyouki": [
+            "充電"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>休</rb><rt>やす</rt></ruby>みの<ruby><rb>日</rb><rt>ひ</rt></ruby>に<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>したり、<ruby><rb>楽</rb><rt>たの</rt></ruby>しく<ruby><rb>遊</rb><rt>あそ</rt></ruby>んだりして<ruby><rb>過</rb><rt>す</rt></ruby>ごすこと。<ruby><rb>余暇</rb><rt>よか</rt></ruby>。",
+          "hyouki": [
+            "レジャー"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>型</rb><rt>かた</rt></ruby>。<ruby><rb>類型</rb><rt>るいけい</rt></ruby>。",
+          "hyouki": [
+            "タイプ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。",
+          "hyouki": [
+            "割合"
+          ]
+        },
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。",
+          "hyouki": [
+            "割合"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>出発</rb><rt>しゅっぱつ</rt></ruby>。",
+          "hyouki": [
+            "スタート"
+          ]
+        }
+      ]
+    }
+  }
+}
